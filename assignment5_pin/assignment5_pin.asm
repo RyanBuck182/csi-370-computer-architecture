@@ -1,4 +1,4 @@
-; Assignment 5.4
+; Assignment 5 Pin
 ; Ryan Buck
 ; Determines if a pin is valid or not based on the minimum and maximum for each digit.
 
